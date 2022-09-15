@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "426016ac25238b0c8dc5a95440716746",
+    "content-hash": "f33535da8f2aed42548fc4c4af486729",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2537,16 +2537,16 @@
         },
         {
             "name": "paragonie/sodium_compat",
-            "version": "v1.17.0",
+            "version": "v1.18.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/sodium_compat.git",
-                "reference": "c59cac21abbcc0df06a3dd18076450ea4797b321"
+                "reference": "906e0b925895d3a5941eda25f371fbafb3cbc22f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/c59cac21abbcc0df06a3dd18076450ea4797b321",
-                "reference": "c59cac21abbcc0df06a3dd18076450ea4797b321",
+                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/906e0b925895d3a5941eda25f371fbafb3cbc22f",
+                "reference": "906e0b925895d3a5941eda25f371fbafb3cbc22f",
                 "shasum": ""
             },
             "require": {
@@ -2615,7 +2615,7 @@
                 "secret-key cryptography",
                 "side-channel resistant"
             ],
-            "time": "2021-08-10T02:43:50+00:00"
+            "time": "2022-09-13T20:54:27+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -3144,16 +3144,16 @@
         },
         {
             "name": "pusher/pusher-php-server",
-            "version": "v4.1.5",
+            "version": "5.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pusher/pusher-http-php.git",
-                "reference": "251f22602320c1b1aff84798fe74f3f7ee0504a9"
+                "reference": "1024077ff60beebaf5706b4e0208a1e648d20cf4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pusher/pusher-http-php/zipball/251f22602320c1b1aff84798fe74f3f7ee0504a9",
-                "reference": "251f22602320c1b1aff84798fe74f3f7ee0504a9",
+                "url": "https://api.github.com/repos/pusher/pusher-http-php/zipball/1024077ff60beebaf5706b4e0208a1e648d20cf4",
+                "reference": "1024077ff60beebaf5706b4e0208a1e648d20cf4",
                 "shasum": ""
             },
             "require": {
@@ -3163,12 +3163,13 @@
                 "psr/log": "^1.0"
             },
             "require-dev": {
+                "overtrue/phplint": "^2.3",
                 "phpunit/phpunit": "^7.2|^8.5|^9.3"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.4-dev"
+                    "dev-master": "5.0-dev"
                 }
             },
             "autoload": {
@@ -3194,7 +3195,7 @@
                 "rest",
                 "trigger"
             ],
-            "time": "2020-12-09T09:38:19+00:00"
+            "time": "2021-03-15T09:17:01+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
