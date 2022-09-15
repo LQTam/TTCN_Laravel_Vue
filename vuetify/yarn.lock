@@ -910,10 +910,10 @@
   dependencies:
     sift "^9.0.4"
 
-"@casl/vue@^0.5.1":
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/@casl/vue/-/vue-0.5.1.tgz#3b9fe9aeba0ba2b45578c91021877f31a288bda4"
-  integrity sha512-a3ZAYoQEr5dnPFQsDnivlC5UBYWKZD0XPvDohzJVCCjztRZIEOFOd/Ns502yTqe9sIJPq38f5nGsZ+YIIVWcIg==
+"@casl/vue@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@casl/vue/-/vue-2.0.1.tgz#428dd37085c59b789a593d311ffb61ca0c71d65e"
+  integrity sha512-czQL6R8CfYgaB8YXuNPk0CMDiVMBtW78Bv+92hZuasRM45geu9/JxMDNiQsl3VIKVPSW+IdNJ8JYBHd16V8eZQ==
 
 "@ckeditor/ckeditor5-build-classic@^17.0.0":
   version "17.0.0"
