@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@casl/ability": "^3.4.0",
-    "@casl/vue": "^0.5.1",
+    "@casl/vue": "^2.0.1",
     "@ckeditor/ckeditor5-build-classic": "^17.0.0",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
     "axios": "^0.19.2",
