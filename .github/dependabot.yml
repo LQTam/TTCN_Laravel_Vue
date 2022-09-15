@@ -6,6 +6,13 @@
 version: 2
 updates:
   - package-ecosystem: "composer" # See documentation for possible values
-    directory: "/" # Location of package manifests
+    directory: "/client_serverTTCN1" # Location of package manifests
+    schedule:
+      interval: "daily"
+      
+  - package-ecosystem: "npm"
+    # Look for `package.json` and `lock` files in the `root` directory
+    directory: "/vuetify"
+    # Check the npm registry for updates every day (weekdays)
     schedule:
       interval: "daily"
