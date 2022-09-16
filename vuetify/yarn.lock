@@ -8805,7 +8805,7 @@ vue-2-breadcrumbs@^0.5.2:
   resolved "https://registry.yarnpkg.com/vue-2-breadcrumbs/-/vue-2-breadcrumbs-0.5.2.tgz#b2b10720b705928651865215223a4e870d81a896"
   integrity sha512-UL7qhbWp9SOOL8D+COWEjooLgMJbYnDCXYb1qRb9ToTXwyIg7ooJEdRFXyLBHEQsuqAqYo26ipiu/Khg3PiRZA==
 
-vue-awesome-notifications@^3.1.0:
+vue-awesome-notifications@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/vue-awesome-notifications/-/vue-awesome-notifications-3.1.1.tgz#6bd77dfe6d2f93fe65a2dfb8f64ccc7f8e33fd26"
   integrity sha512-1xlo5siSLUqLE9izyOTr6kjN5pmtT+/nEbkVa/E15Ss19HcZL2z62C6o4eCvGE0FoNmODm4INmGO/5Z0kwW4hw==
